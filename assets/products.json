@@ -54,6 +54,23 @@
     "tags": [
       "Unisex",
       "Hoodie"
+
+      {
+  "id": "ps5",
+  "name": "DualSense PS5 Controller",
+  "priceUSD": 26.5,
+  "condition": "Very Good",
+  "stock": 3,
+  "category": "controllers",
+  "img": "images/ps5/01.jpg",
+  "images": [
+    "images/ps5/01.jpg",
+    "images/ps5/02.jpg",
+    "images/ps5/03.jpg"
+  ],
+  "notes": "White, tested, cable included"
+}
+
     ]
   }
 ]
